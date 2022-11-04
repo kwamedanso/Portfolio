@@ -147,7 +147,7 @@ header{
         gap:1rem;
         width: 100%;
         text-align: center;
-        transition: 0.3s cubic-bezier(0.4, 0, 0.41, 1.35);
+        transition: 0.5s cubic-bezier(0.4, 0, 0.41, 1.35);
     }
     .nav-links{
         font-size: 1.5rem;
